@@ -1,1 +1,1 @@
-# AI-ML-Assignment-01
+# All-Assignment
